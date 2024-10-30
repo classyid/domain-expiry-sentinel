@@ -28,7 +28,7 @@ sudo apt-get install curl
 ### Instalasi
 ```bash
 # Clone repository
-git clone https://github.com/username/domain-expiry-sentinel.git
+git clone https://github.com/classyid/domain-expiry-sentinel.git
 
 # Masuk ke direktori
 cd domain-expiry-sentinel
